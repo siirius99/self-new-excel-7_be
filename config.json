@@ -5,7 +5,7 @@
     "max": 10
   },
   "client": "mysql",
-  "secret": "vWqya0qNF6qvyDaOXpEls",
+  "secret": "xt61_kQkXGZBr6ErRIxKS",
   "token_expiration_time": "24h",
   "salt_rounds": 10,
   "payment": {
